@@ -2,7 +2,7 @@
 
 ------
 
-Mic Drop* is played as a tabletop story game, around a table (or in the green room). Each player is a member of the band or the entourage, and all share in the telling of the story. Or the descent into chaos, such as it is.
+*Mic Drop* is played as a tabletop story game, around a table (or in the green room). Each player is a member of the band or the entourage, and all share in the telling of the story. Or the descent into chaos, such as it is.
 
 ## Mic Drop is now in Early Access!
 

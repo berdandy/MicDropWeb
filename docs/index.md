@@ -1,13 +1,24 @@
-![Cover](img/widecover.jpg)
+![Cover](img/cover.png)
 
 ------
 
-*Mic Drop* is played as a tabletop story game, around a table (or in the green room). Each player is a member of the band or the entourage, and all share in the telling of the story. Or the descent into chaos, such as it is.
+*Mic Drop is a tabletop rpg where the players follow a dumpster fire of a band on a train wreck of an album tour.*
 
-## Mic Drop is now in Early Access!
+The game is played as a dramatic story RPG, at table, but the players may interact with other band members (and fans) on social media as part of the game.
 
-Check out [@micdropgame on itch.io](https://berdandy.itch.io/mic-drop) for a plaintext copy of the game (as played at Metatopia), and a free upgrade to the pretty version when it's released.
+Craft a band persona and let the train wreck begin!
 
+## Mic Drop is now in pre-order!
+
+Pre-order Mic Drop now, and turn the speakers up to 11!
+
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div style="display:inline-block; vertical-align: top; width: 45%;">
+  <div class="gumroad-product-embed" data-gumroad-product-id="micdrop"><a href="https://gumroad.com/l/micdrop">Loading...</a></div>
+</div>
+<div style="display:inline-block; vertical-align: top; width: 45%;">
+  <div class="gumroad-product-embed" data-gumroad-product-id="micdrop-digital"><a href="https://gumroad.com/l/micdrop-digital">Loading...</a></div>
+</div>
 ---
 
 ## Personae
@@ -19,7 +30,6 @@ Check out [@micdropgame on itch.io](https://berdandy.itch.io/mic-drop) for a pla
 
 ---
 
-## *Mic Drop* is in heavy (metal?) production. For more info
+## For more info
 
 - Ping Andy Berdan on [twitter](http://twitter.com/andyberdan) or [email](mailto:andy@berdan.ca). He loves interacting with awesome people.
-- Check out [GMParty](http://gmparty.com). A game design talk show hosted by Andy. Mic Drop has featured on the show before, and likely will show up again.
